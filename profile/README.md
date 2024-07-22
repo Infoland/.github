@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organization contains repos for products build by [Infoland](infoland.eu) like [Zenya](zenya-software.com).
+This organization contains repos for products build by [Infoland](https://www.infoland.eu) like [Zenya](https://www.zenya-software.com).
 
 We have several types of repos
 - Examples how to consume our public API's
