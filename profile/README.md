@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+This organization contains repos for products build by [Infoland](infoland.eu) like [Zenya](zenya-software.com).
+
+We have several types of repos
+- Examples how to consume our public API's
+- Examples for tools (like the BulkExportDownloader)
+- Forks of NPM libraries
+
 <!--
 
 **Here are some ideas to get you started:**
